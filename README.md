@@ -2,7 +2,9 @@
 assets for the minecraft server
 
 ## Mod Info  
-Java: TEMURIN 21 (jdk)  
+Debian GNU/Linux 12 (bookworm)  
+Docker: version 28.1.1, build 4eba377  
+Java: Temurin-21.0.7+6 (build 21.0.7+6-LTS)  
 AMP: 2.6.1.6 - 20250421.1  
 Server Type: [Purpur](https://purpurmc.org/download/purpur)-2431  
 [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.7-paper  
