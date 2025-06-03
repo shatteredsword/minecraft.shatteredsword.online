@@ -18,6 +18,6 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.5-2441
 [EssentialsX Spawn](https://essentialsx.net/downloads.html): 2.21.1  
 [ForceXaeroFairPlay](https://github.com/Alfie51m/ForceXaeroFairPlay/releases): 2.1.0  
 [Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/version/d0Xdgnmx): 1.7.3  
-[LuckPerms](https://luckperms.net/download): 5.5.0-bukkit  
+[LuckPerms](https://luckperms.net/download): 5.5.2-bukkit  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
 [WorldEdit](https://modrinth.com/plugin/worldedit?version=1.21.5&loader=paper): 7.3.13+7139-cdc1c25
