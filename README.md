@@ -10,7 +10,7 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.5-2441
 [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.7-paper  
 [BlueMapSetMarkers](https://github.com/YDHusky/BlueMapSetMarkers/releases): 2.1  
 [ChestSort](https://www.spigotmc.org/resources/chestsort-api.59773/): 14.2.0  
-[Chunky](https://modrinth.com/plugin/chunky?version=1.21.5&loader=paper#download): 1.4.36
+[Chunky](https://modrinth.com/plugin/chunky?version=1.21.5&loader=paper#download): 1.4.36  
 [EssentialsX](https://essentialsx.net/downloads.html): 2.21.1  
 [ExxentialsX Chat](https://essentialsx.net/downloads.html): 2.21.1  
 [EssentialsX Discord](https://essentialsx.net/downloads.html): 2.21.1  
