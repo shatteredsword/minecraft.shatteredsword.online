@@ -5,8 +5,8 @@ assets for the minecraft server
 Debian GNU/Linux 12 (bookworm)  
 Docker: version 28.1.1, build 4eba377  
 Java: Temurin-21.0.7+6 (build 21.0.7+6-LTS)  
-AMP: 2.6.2 - 20250601.2  
-Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.5-2441  
+AMP: 2.6.2 - 20250611.1  
+Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.5-2445  
 [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.7-paper  
 [BlueMapSetMarkers](https://github.com/YDHusky/BlueMapSetMarkers/releases): 2.1  
 [ChestSort](https://www.spigotmc.org/resources/chestsort-api.59773/): 14.2.0  
@@ -20,4 +20,5 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.5-2441
 [Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/version/d0Xdgnmx): 1.7.3  
 [LuckPerms](https://luckperms.net/download): 5.5.2-bukkit  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
-[WorldEdit](https://modrinth.com/plugin/worldedit?version=1.21.5&loader=paper): 7.3.13+7139-cdc1c25
+[Velocity](https://papermc.io/downloads/velocity): 3.4.0-SNAPSHOT-510
+[WorldEdit](https://modrinth.com/plugin/worldedit?version=1.21.5&loader=paper): 7.3.14+7149-8bea01b
