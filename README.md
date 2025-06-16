@@ -6,7 +6,7 @@ Debian GNU/Linux 12 (bookworm)
 Docker: version 28.1.1, build 4eba377  
 Java: Temurin-21.0.7+6 (build 21.0.7+6-LTS)  
 AMP: 2.6.2 - 20250613.1  
-Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.5-2445  
+Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.5-2449  
 [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.7-paper  
 [BlueMapSetMarkers](https://github.com/YDHusky/BlueMapSetMarkers/releases): 2.1  
 [ChestSort](https://www.spigotmc.org/resources/chestsort-api.59773/): 14.2.0  
