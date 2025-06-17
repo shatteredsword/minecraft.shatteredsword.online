@@ -17,7 +17,7 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.6-2452
 [EssentialsX Discord Link](https://essentialsx.net/downloads.html): 2.21.1  
 [EssentialsX Spawn](https://essentialsx.net/downloads.html): 2.21.1  
 [ForceXaeroFairPlay](https://github.com/Alfie51m/ForceXaeroFairPlay/releases): 2.1.0  
-[Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/version/d0Xdgnmx): 1.7.3  
+[Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/version/d0Xdgnmx): 1.7.4  
 [LuckPerms](https://luckperms.net/download): 5.5.4-bukkit  
 [PurpurExtras](https://modrinth.com/plugin/purpurextras): 1.36.0  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
