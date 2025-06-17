@@ -21,5 +21,5 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.5-2449
 [LuckPerms](https://luckperms.net/download): 5.5.4-bukkit  
 [PurpurExtras](https://modrinth.com/plugin/purpurextras): 1.36.0  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
-[Velocity](https://papermc.io/downloads/velocity): 3.4.0-SNAPSHOT-512  
+[Velocity](https://papermc.io/downloads/velocity): 3.4.0-SNAPSHOT-515  
 [WorldEdit](https://modrinth.com/plugin/worldedit?version=1.21.5&loader=paper): 7.3.14+7149-8bea01b
