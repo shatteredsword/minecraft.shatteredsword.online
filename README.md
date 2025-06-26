@@ -21,5 +21,7 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.6-2457
 [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows): 1.0
 [LuckPerms](https://luckperms.net/download): 5.5.8-bukkit  
 [PurpurExtras](https://modrinth.com/plugin/purpurextras): 1.36.0  
+[True Ending](https://modrinth.com/datapack/true-ending): 1.1.4b
+[True Ending Music](https://modrinth.com/resourcepack/true-ending-ender-dragon-music): 1.0
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
 [Velocity](https://papermc.io/downloads/velocity): 3.4.0-SNAPSHOT-515  
