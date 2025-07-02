@@ -24,4 +24,4 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.6-2465
 [True Ending](https://modrinth.com/datapack/true-ending/versions): 1.1.4b  
 [True Ending Music](https://modrinth.com/resourcepack/true-ending-ender-dragon-music/versions): 1.0  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
-[Velocity](https://papermc.io/downloads/velocity): 3.4.0-SNAPSHOT-515  
+[Velocity](https://papermc.io/downloads/velocity): 3.4.0-SNAPSHOT-521  
