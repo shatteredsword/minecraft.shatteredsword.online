@@ -6,7 +6,7 @@ Debian GNU/Linux 12 (bookworm)
 Docker: version 28.1.1, build 4eba377  
 Java: Temurin-21.0.7+6 (build 21.0.7+6-LTS)  
 Minecraft target version: 1.21.6  
-AMP: 2.6.2 - 20250617.1  
+AMP: 2.6.2.2 - 20250706.1  
 Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.6-2465  
 [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.9-paper  
 [BlueMapSetMarkers](https://github.com/YDHusky/BlueMapSetMarkers/releases): 2.1  
