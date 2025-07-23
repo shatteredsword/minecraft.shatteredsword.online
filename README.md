@@ -17,7 +17,7 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.7-2475
 [EssentialsX Discord Link](https://essentialsx.net/downloads.html): 2.21.1  
 [EssentialsX Spawn](https://essentialsx.net/downloads.html): 2.21.1  
 [Faster Happy Ghasts](https://modrinth.com/datapack/faster-happy-ghasts/versions): 1.0  
-[Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/versions): 1.7.5  
+[Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/versions): 1.7.6  
 [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows/versions): 1.0  
 [LuckPerms](https://luckperms.net/download): 5.5.9-bukkit  
 [PurpurExtras](https://modrinth.com/plugin/purpurextras/versions): 1.36.0  
