@@ -20,7 +20,7 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.7-2475
 [Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/versions): 1.7.6  
 [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows/versions): 1.0  
 [LuckPerms](https://luckperms.net/download): 5.5.9-bukkit  
-[PurpurExtras](https://modrinth.com/plugin/purpurextras/versions): 1.36.0  
+[PurpurExtras](https://modrinth.com/plugin/purpurextras/versions): 1.36.1  
 [True Ending](https://modrinth.com/datapack/true-ending/versions): 1.1.4b  
 [True Ending Music](https://modrinth.com/resourcepack/true-ending-ender-dragon-music/versions): 1.0  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
