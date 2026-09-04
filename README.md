@@ -6,8 +6,8 @@ Debian GNU/Linux 12 (bookworm)
 Docker: version 28.1.1, build 4eba377  
 Java: Temurin-21.0.7+6 (build 21.0.7+6-LTS)  
 Minecraft target version: 1.21.7  
-AMP: 2.6.2.2 - 20250706.1  
-Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.7-2475  
+AMP: 2.8.0.4 - 20260724.1  
+Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.7-2477  
 [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.9-paper  
 [BlueMapSetMarkers](https://github.com/YDHusky/BlueMapSetMarkers/releases): 2.1  
 [ChestSort](https://www.spigotmc.org/resources/chestsort-api.59773/): 14.2.0  
@@ -24,4 +24,4 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-1.21.7-2475
 [True Ending](https://modrinth.com/datapack/true-ending/versions): 1.1.4b  
 [True Ending Music](https://modrinth.com/resourcepack/true-ending-ender-dragon-music/versions): 1.0  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
-[Velocity](https://papermc.io/downloads/velocity): 3.4.0-SNAPSHOT-521  
+[Velocity](https://papermc.io/downloads/velocity): 4.1.2-SNAPSHOT-27  
