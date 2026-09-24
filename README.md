@@ -25,4 +25,6 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
 [Velocity](https://papermc.io/downloads/velocity): 4.2.1-SNAPSHOT (git-fb0f21f4-b32)  
 [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions): 5.12.0  
-[ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion/versions): 5.12.0
+[ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion/versions): 5.12.0  
+[WorldEdit](https://modrinth.com/plugin/worldedit): bukkit-7.4.5  
+[WorldGuard](https://modrinth.com/plugin/worldguard): bukkit-7.0.18  
