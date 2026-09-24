@@ -16,7 +16,7 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633
 [EssentialsX Discord Link](https://essentialsx.net/downloads.html): 2.22.0  
 [EssentialsX Spawn](https://essentialsx.net/downloads.html): 2.22.0  
 [Faster Happy Ghasts](https://modrinth.com/datapack/faster-happy-ghasts/versions): V2  
-[Floodgate](https://geysermc.org/download?project=floodgate): b2.2.5-SNAPSHOT   
+[Floodgate](https://geysermc.org/download?project=floodgate): 2.2.5-SNAPSHOT (b141-81b65cc)  
 [Geyser](https://geysermc.org/download): 2.11.3-b1246 (git-master-54250f1)  
 [Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/versions): 1.8.4  
 [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows/versions): 1.0  
