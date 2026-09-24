@@ -2,11 +2,11 @@
 assets for the minecraft server
 
 ## Mod Info  
-AMP: 2.8.0.4 - 20260724.1  
+AMP: 2.8.0.6 - 20260923.2  
 Java: Temurin 25 (jdk)  
 Minecraft target version: 26.2  
 Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633  
-[BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.23-paper  
+[BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.27-paper  
 [BlueMapSetMarkers](https://github.com/YDHusky/BlueMapSetMarkers/releases): 2.1  
 [ChestSort Revived](https://www.spigotmc.org/resources/chestsort-revived-api.136932/): 17.0.0  
 [Chunky](https://modrinth.com/plugin/chunky): 1.5.3  
@@ -16,7 +16,7 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633
 [EssentialsX Discord Link](https://essentialsx.net/downloads.html): 2.22.0  
 [EssentialsX Spawn](https://essentialsx.net/downloads.html): 2.22.0  
 [Faster Happy Ghasts](https://modrinth.com/datapack/faster-happy-ghasts/versions): V2  
-[Floodgate](https://geysermc.org/download?project=floodgate): b2.2.5-SNAPSHOT  
+[Floodgate](https://geysermc.org/download?project=floodgate): b2.2.5-SNAPSHOT   
 [Geyser](https://geysermc.org/download): 2.11.3-b1245  
 [Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/versions): 1.8.4  
 [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows/versions): 1.0  
