@@ -23,4 +23,4 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633
 [LuckPerms](https://luckperms.net/download): 5.5.81-bukkit  
 [PurpurExtras](https://modrinth.com/plugin/purpurextras/versions): 1.37.2  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
-[Velocity](https://papermc.io/downloads/velocity): 4.1.2-SNAPSHOT-27  
+[Velocity](https://papermc.io/downloads/velocity): 4.2.1-SNAPSHOT (git-fb0f21f4-b32)  
