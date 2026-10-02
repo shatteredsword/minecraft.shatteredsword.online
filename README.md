@@ -2,7 +2,7 @@
 assets for the minecraft server
 
 ## Mod Info  
-AMP: 2.8.0.6 - 20260923.2  
+AMP: 2.8.0.8 - 20260927.1  
 Java: Temurin 25 (jdk)  
 Minecraft target version: 26.2  
 Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633  
@@ -18,7 +18,7 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633
 [Faster Happy Ghasts](https://modrinth.com/datapack/faster-happy-ghasts/versions): V2  
 [Floodgate](https://geysermc.org/download?project=floodgate): 2.2.5-SNAPSHOT (b141-81b65cc)  
 [Geyser](https://geysermc.org/download): 2.11.3-b1246 (git-master-54250f1)  
-[Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/versions): 1.8.4  
+[Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/versions): 1.8.5  
 [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows/versions): 1.0  
 [LuckPerms](https://luckperms.net/download): 5.5.81-bukkit  
 [PurpurExtras](https://modrinth.com/plugin/purpurextras/versions): 1.37.2  
