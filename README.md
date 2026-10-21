@@ -6,7 +6,7 @@ AMP: 2.8.0.8 - 20260927.1
 Java: Temurin 25 (jdk)  
 Minecraft target version: 26.2  
 Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633  
-[BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.27-paper  
+[BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.29-paper  
 [BlueMapSetMarkers](https://github.com/YDHusky/BlueMapSetMarkers/releases): 2.1  
 [ChestSort Revived](https://www.spigotmc.org/resources/chestsort-revived-api.136932/): 17.0.0  
 [Chunky](https://modrinth.com/plugin/chunky): 1.5.3  
@@ -24,7 +24,7 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633
 [PurpurExtras](https://modrinth.com/plugin/purpurextras/versions): 1.37.2  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
 [Velocity](https://papermc.io/downloads/velocity): 4.2.1-SNAPSHOT (git-fb0f21f4-b32)  
-[ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions): 5.12.0  
-[ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion/versions): 5.12.0  
-[WorldEdit](https://modrinth.com/plugin/worldedit): bukkit-7.4.5  
-[WorldGuard](https://modrinth.com/plugin/worldguard): bukkit-7.0.18  
+[ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions): 5.12.1  
+[ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion/versions): 5.12.1  
+[WorldEdit](https://modrinth.com/plugin/worldedit): bukkit-7.4.6  
+[WorldGuard](https://modrinth.com/plugin/worldguard): bukkit-7.0.20  
