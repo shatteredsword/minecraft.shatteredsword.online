@@ -2,10 +2,10 @@
 assets for the minecraft server
 
 ## Mod Info  
-AMP: 2.8.0.8 - 20260927.1  
+AMP: 2.8.0.10 - 20261028.1  
 Java: Temurin 25 (jdk)  
-Minecraft target version: 26.2  
-Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633  
+Minecraft target version: 26.3  
+Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.3-2655  
 [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/releases): 5.29-paper  
 [BlueMapSetMarkers](https://github.com/YDHusky/BlueMapSetMarkers/releases): 2.1  
 [ChestSort Revived](https://www.spigotmc.org/resources/chestsort-revived-api.136932/): 17.0.0  
@@ -17,14 +17,14 @@ Server Type: [Purpur](https://purpurmc.org/download/purpur)-26.2-2633
 [EssentialsX Spawn](https://essentialsx.net/downloads.html): 2.22.0  
 [Faster Happy Ghasts](https://modrinth.com/datapack/faster-happy-ghasts/versions): V2  
 [Floodgate](https://geysermc.org/download?project=floodgate): 2.2.5-SNAPSHOT (b141-81b65cc)  
-[Geyser](https://geysermc.org/download): 2.11.3-b1246 (git-master-54250f1)  
+[Geyser](https://geysermc.org/download): 2.12.1-b1276 (git-master-e963aec)  
 [Inventory Rollback Plus](https://modrinth.com/plugin/inventoryrollbackplus/versions): 1.8.5  
 [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows/versions): 1.0  
-[LuckPerms](https://luckperms.net/download): 5.5.81-bukkit  
+[LuckPerms](https://luckperms.net/download): 5.5.88-bukkit  
 [PurpurExtras](https://modrinth.com/plugin/purpurextras/versions): 1.37.2  
 [Vault](https://github.com/MilkBowl/Vault/releases): 1.7.3-b131  
-[Velocity](https://papermc.io/downloads/velocity): 4.2.1-SNAPSHOT (git-fb0f21f4-b32)  
-[ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions): 5.12.1  
-[ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion/versions): 5.12.1  
+[Velocity](https://papermc.io/downloads/velocity): 4.3.1-45  
+[ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions): 5.12.2  
+[ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion/versions): 5.12.2  
 [WorldEdit](https://modrinth.com/plugin/worldedit): bukkit-7.4.6  
 [WorldGuard](https://modrinth.com/plugin/worldguard): bukkit-7.0.20  
